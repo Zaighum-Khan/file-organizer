@@ -42,6 +42,3 @@ Files are sorted based on extension:
 Subfolders are created automatically if they don't already exist. The script also skips itself if it's placed inside the target folder, and skips any folders (only moves files).
 
 ## Notes
-
-- This is Tool 1 in a series of tools I'm building to learn software development hands-on, from scratch, function by function.
-- Built without copy-pasting — every line written and understood personally.
